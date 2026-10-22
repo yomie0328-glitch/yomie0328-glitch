@@ -7,7 +7,7 @@ With a background in business administration and hands-on experience in game mar
 ## 🔭 What I'm working on
 
 - **Game marketing:** User acquisition, retargeting, and ad creative planning.
-- **AI content:** Images, videos, and short-form stories featuring game characters.
+- **Creative AI :** Images, videos, and short-form stories featuring game characters.
 - **Marketing analytics:** Reviewing campaign performance to guide creative and media decisions.
 - **Workflow automation:** Reducing repetitive data collection and reporting tasks with AI-assisted tools.
 
@@ -15,7 +15,7 @@ With a background in business administration and hands-on experience in game mar
 
 **Advertising:** Google Ads · Meta Ads · TikTok Ads ·
 **Analytics:** Airbridge · Google Sheets  
-**AI & Content:** ComfyUi · Higgsfield · CapCut  
+**Creative AI & Content:** ComfyUi · Higgsfield · CapCut  
 **Project Sharing:** GitHub
 
 ## 🌱 Currently learning
