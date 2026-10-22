@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Seoyeon 👋
 
-<!--
-**yomie0328-glitch/yomie0328-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a game marketer exploring how generative AI and automation can improve creative work and everyday workflows.
 
-Here are some ideas to get you started:
+With a background in business administration and hands-on experience in game marketing, I work on user acquisition, AI-powered content, and campaign reporting. I enjoy turning ideas into practical projects, learning by building, and improving through feedback.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm working on
+
+- **Game marketing:** User acquisition, retargeting, and ad creative planning.
+- **AI content:** Images, videos, and short-form stories featuring game characters.
+- **Marketing analytics:** Reviewing campaign performance to guide creative and media decisions.
+- **Workflow automation:** Reducing repetitive data collection and reporting tasks with AI-assisted tools.
+
+## 🛠️ Tools I work with
+
+**Advertising:** Google Ads · Meta Ads · TikTok Ads ·
+**Analytics:** Airbridge · Google Sheets  
+**AI & Content:** ComfyUi · Higgsfield · CapCut  
+**Project Sharing:** GitHub
+
+## 🌱 Currently learning
+
+Building practical tools with AI, making reporting more reliable, and documenting what I learn along the way.
+
+## 📫 Let's connect
+
+I'd love to exchange ideas about game marketing, AI content, and workflow automation.
+
+[Find me on GitHub](https://github.com/yomie0328-glitch)
